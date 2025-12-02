@@ -1,0 +1,14 @@
+{
+    "expenses": [],
+    "income": [
+        {
+            "amount": 1850.0,
+            "description": "Remaining",
+            "source": "Other",
+            "recurring": "No",
+            "date": "2025-11-20 02:43:53",
+            "id": 1
+        }
+    ],
+    "loans": []
+}
